@@ -1,0 +1,610 @@
+C:\Users\shock\PycharmProjects\chess\venv\Scripts\python.exe C:/Users/shock/PycharmProjects/chess/chess.py
+pygame 2.0.1 (SDL 2.0.14, Python 3.8.6)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+d4
+
+BR BN BB BQ BK BB BN BR
+BP BP BP BP BP BP BP BP
+
+
+         WP
+
+WP WP WP    WP WP WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+c6
+
+BR BN BB BQ BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+
+         WP
+
+WP WP WP    WP WP WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+f3
+
+BR BN BB BQ BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+
+         WP
+               WP
+WP WP WP    WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+Qa5
+
+BR BN BB    BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+BQ
+         WP
+               WP
+WP WP WP    WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+c3
+
+BR BN BB    BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+BQ
+         WP
+      WP       WP
+WP WP       WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+Qxc3
+
+BR BN BB    BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+
+         WP
+      BQ       WP
+WP WP       WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+xc3
+
+BR BN BB    BK BB BN BR
+BP BP    BP BP BP BP BP
+      BP
+
+         WP
+      WP       WP
+WP          WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+d6
+
+BR BN BB    BK BB BN BR
+BP BP       BP BP BP BP
+      BP BP
+
+         WP
+      WP       WP
+WP          WP    WP WP
+WR WN WB WQ WK WB WN WR
+-------------------------------------
+Qc2
+
+BR BN BB    BK BB BN BR
+BP BP       BP BP BP BP
+      BP BP
+
+         WP
+      WP       WP
+WP    WQ    WP    WP WP
+WR WN WB    WK WB WN WR
+-------------------------------------
+b5
+
+BR BN BB    BK BB BN BR
+BP          BP BP BP BP
+      BP BP
+   BP
+         WP
+      WP       WP
+WP    WQ    WP    WP WP
+WR WN WB    WK WB WN WR
+-------------------------------------
+Qxh7
+
+BR BN BB    BK BB BN BR
+BP          BP BP BP WQ
+      BP BP
+   BP
+         WP
+      WP       WP
+WP          WP    WP WP
+WR WN WB    WK WB WN WR
+-------------------------------------
+Rxh7
+
+BR BN BB    BK BB BN
+BP          BP BP BP BR
+      BP BP
+   BP
+         WP
+      WP       WP
+WP          WP    WP WP
+WR WN WB    WK WB WN WR
+-------------------------------------
+Kd2
+
+BR BN BB    BK BB BN
+BP          BP BP BP BR
+      BP BP
+   BP
+         WP
+      WP       WP
+WP       WK WP    WP WP
+WR WN WB       WB WN WR
+-------------------------------------
+Rxh2
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP BP
+   BP
+         WP
+      WP       WP
+WP       WK WP    WP BR
+WR WN WB       WB WN WR
+-------------------------------------
+Rxh2
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP BP
+   BP
+         WP
+      WP       WP
+WP       WK WP    WP WR
+WR WN WB       WB WN
+-------------------------------------
+d5
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   BP    BP
+         WP
+      WP       WP
+WP       WK WP    WP WR
+WR WN WB       WB WN
+-------------------------------------
+e4
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   BP    BP
+         WP WP
+      WP       WP
+WP       WK       WP WR
+WR WN WB       WB WN
+-------------------------------------
+xe4
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   BP
+         WP BP
+      WP       WP
+WP       WK       WP WR
+WR WN WB       WB WN
+-------------------------------------
+Bxb5
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   WB
+         WP BP
+      WP       WP
+WP       WK       WP WR
+WR WN WB          WN
+-------------------------------------
+e3
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   WB
+         WP
+      WP    BP WP
+WP       WK       WP WR
+WR WN WB          WN
+-------------------------------------
+Kxe3
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+      BP
+   WB
+         WP
+      WP    WK WP
+WP                WP WR
+WR WN WB          WN
+-------------------------------------
+xb5
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+
+   BP
+         WP
+      WP    WK WP
+WP                WP WR
+WR WN WB          WN
+-------------------------------------
+Ba3
+
+BR BN BB    BK BB BN
+BP          BP BP BP
+
+   BP
+         WP
+WB    WP    WK WP
+WP                WP WR
+WR WN             WN
+-------------------------------------
+Bd7
+
+BR BN       BK BB BN
+BP       BB BP BP BP
+
+   BP
+         WP
+WB    WP    WK WP
+WP                WP WR
+WR WN             WN
+-------------------------------------
+Bxe7
+
+BR BN       BK BB BN
+BP       BB WB BP BP
+
+   BP
+         WP
+      WP    WK WP
+WP                WP WR
+WR WN             WN
+-------------------------------------
+Nxe7
+
+BR BN       BK BB
+BP       BB BN BP BP
+
+   BP
+         WP
+      WP    WK WP
+WP                WP WR
+WR WN             WN
+-------------------------------------
+Nd2
+
+BR BN       BK BB
+BP       BB BN BP BP
+
+   BP
+         WP
+      WP    WK WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Nd5
+
+BR BN       BK BB
+BP       BB    BP BP
+
+   BP    BN
+         WP
+      WP    WK WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kd3
+
+BR BN       BK BB
+BP       BB    BP BP
+
+   BP    BN
+         WP
+      WP WK    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Nb4
+
+BR BN       BK BB
+BP       BB    BP BP
+
+   BP
+   BN    WP
+      WP WK    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+xb4
+
+BR BN       BK BB
+BP       BB    BP BP
+
+   BP
+   WP    WP
+         WK    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Bf5
+
+BR BN       BK BB
+BP             BP BP
+
+   BP          BB
+   WP    WP
+         WK    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kc3
+
+BR BN       BK BB
+BP             BP BP
+
+   BP          BB
+   WP    WP
+      WK       WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Bxb4
+
+BR BN       BK
+BP             BP BP
+
+   BP          BB
+   BB    WP
+      WK       WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kxb4
+
+BR BN       BK
+BP             BP BP
+
+   BP          BB
+   WK    WP
+               WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+a5
+
+BR BN       BK
+               BP BP
+
+BP BP          BB
+   WK    WP
+               WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kxb5
+
+BR BN       BK
+               BP BP
+
+BP WK          BB
+         WP
+               WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Bd3
+
+BR BN       BK
+               BP BP
+
+BP WK
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kb6
+
+BR BN       BK
+               BP BP
+   WK
+BP
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Ra6
+
+   BN       BK
+               BP BP
+BR WK
+BP
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kc5
+
+   BN       BK
+               BP BP
+BR
+BP    WK
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Rc6
+
+   BN       BK
+               BP BP
+      BR
+BP    WK
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Kd5
+
+   BN       BK
+               BP BP
+      BR
+BP       WK
+         WP
+         BB    WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Bc4
+
+   BN       BK
+               BP BP
+      BR
+BP       WK
+      BB WP
+               WP
+WP       WN       WP WR
+WR                WN
+-------------------------------------
+Nxc4
+
+   BN       BK
+               BP BP
+      BR
+BP       WK
+      WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Rc5
+
+   BN       BK
+               BP BP
+
+BP    BR WK
+      WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Kxc5
+
+   BN       BK
+               BP BP
+
+BP    WK
+      WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Na6
+
+            BK
+               BP BP
+BN
+BP    WK
+      WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Kc6
+
+            BK
+               BP BP
+BN    WK
+BP
+      WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Nb4
+
+            BK
+               BP BP
+      WK
+BP
+   BN WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Kb7
+
+            BK
+   WK          BP BP
+
+BP
+   BN WN WP
+               WP
+WP                WP WR
+WR                WN
+-------------------------------------
+Nxa2
+
+            BK
+   WK          BP BP
+
+BP
+      WN WP
+               WP
+BN                WP WR
+WR                WN
+-------------------------------------
+Re1
+
+            BK
+   WK          BP BP
+
+BP
+      WN WP
+               WP
+BN                WP WR
+            WR    WN
+-------------------------------------
+Kf8
+
+               BK
+   WK          BP BP
+
+BP
+      WN WP
+               WP
+BN                WP WR
+            WR    WN
+-------------------------------------
+Rh8
+
+               BK    WR
+   WK          BP BP
+
+BP
+      WN WP
+               WP
+BN                WP
+            WR    WN
+-------------------------------------
+
+Process finished with exit code 0
